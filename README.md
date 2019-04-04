@@ -21,10 +21,10 @@ The various commonly used approaches
 have been defined and presented in the project to provide the existing methods currently available.
 
 Approaches shown:
+
   1.Long Short Term Memory (LSTM)
   
   2.Auto Arima
-  
   3.Gated Recurrent Unit (GRU)
   
   4.CNN over GRU
