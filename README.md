@@ -15,8 +15,6 @@ Features:
 6. Market cap:
 
 
-
-
 The various commonly used approaches 
 have been defined and presented in the project to provide the existing methods currently available.
 
@@ -30,9 +28,4 @@ Approaches shown:
 
 4.CNN over GRU
 
-5.Rolling Window Analysis for predictive modelling.
-
-  
-
-The Novel Approach used:
   
